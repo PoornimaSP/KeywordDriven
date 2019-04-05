@@ -13,7 +13,6 @@ public class GoogleHomePageTest {
 	ee.startexecution("Google");
 	//comment
 	
-	//double comment
 	
 	}
 	
